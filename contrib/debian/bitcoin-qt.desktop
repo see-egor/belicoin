@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=belicoin
+Comment=belicoin P2P Cryptocurrency
+Comment[fr]=belicoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=belicoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/belicoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/belicoin80.xpm
+MimeType=x-scheme-handler/belicoin;
+Categories=Office;

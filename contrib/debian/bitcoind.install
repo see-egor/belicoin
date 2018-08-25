@@ -1,0 +1,2 @@
+debian/bin/belicoind usr/bin
+src/belicoind usr/lib/belicoin

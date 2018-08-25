@@ -1,0 +1,5 @@
+belicoin-qt usr/bin
+share/pixmaps/belicoin32.xpm usr/share/pixmaps
+share/pixmaps/belicoin80.xpm usr/share/pixmaps
+debian/belicoin-qt.desktop usr/share/applications
+debian/belicoin-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,11 @@
+[Protocol]
+exec=belicoin-qt '%u'
+protocol=belicoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
